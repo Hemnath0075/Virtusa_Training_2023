@@ -1,0 +1,9 @@
+.app {
+  background-color: #282c34;
+  user-select: none;
+}
+
+.color {
+  color: #00D8FF;
+  padding: 1vh 0px;
+}
